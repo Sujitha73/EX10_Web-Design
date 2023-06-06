@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+![Ex10 Output](https://github.com/Sujitha73/EX10_Web-Design/assets/129753050/38d86b8b-90a9-4cb5-a22f-972d4ceae4be)
 
 
 ## RESULT
